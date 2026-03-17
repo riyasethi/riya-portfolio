@@ -6,7 +6,7 @@ This portfolio highlights my backend engineering experience across integrations,
 
 ## Live Site
 
-`https://riya-sethi.vercel.app/`
+[https://riya-sethi.vercel.app/](https://riya-sethi.vercel.app/)
 
 ## Tech Stack
 
